@@ -5,3 +5,6 @@
 	2. git branch new-branch
 	3. git checkout new-branch
 	4. git push origin new-branch
+##如何提交
+1. git add.
+2. git commit -m "注释"
